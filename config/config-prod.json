@@ -1,0 +1,11 @@
+{
+  "server" : {
+    "port" : 3001,
+    "host" : "127.0.0.1"
+  },
+  "database"  : {
+    "port"  : 27017,
+    "host"  : "127.0.0.1",
+    "name"  : "twitterprod"
+  }
+}
